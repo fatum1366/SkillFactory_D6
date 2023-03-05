@@ -1,1 +1,1 @@
-# SkillFactory_D6
+ДЗ к модулю D6
